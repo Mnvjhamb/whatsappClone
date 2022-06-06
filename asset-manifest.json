@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.c6a7e2d8.chunk.js",
-    "main.js.map": "/my-app/static/js/main.c6a7e2d8.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.5ba1a8c7.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.5ba1a8c7.js.map",
-    "static/css/2.11829350.chunk.css": "/my-app/static/css/2.11829350.chunk.css",
-    "static/js/2.4c5e4d85.chunk.js": "/my-app/static/js/2.4c5e4d85.chunk.js",
-    "static/js/2.4c5e4d85.chunk.js.map": "/my-app/static/js/2.4c5e4d85.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.8e5a0f338ffdf5c2a6ea0dee9997ce05.js": "/my-app/precache-manifest.8e5a0f338ffdf5c2a6ea0dee9997ce05.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/my-app/static/css/2.11829350.chunk.css.map",
-    "static/js/2.4c5e4d85.chunk.js.LICENSE.txt": "/my-app/static/js/2.4c5e4d85.chunk.js.LICENSE.txt"
+    "main.js": "/whatsappClone/static/js/main.c6a7e2d8.chunk.js",
+    "main.js.map": "/whatsappClone/static/js/main.c6a7e2d8.chunk.js.map",
+    "runtime-main.js": "/whatsappClone/static/js/runtime-main.5f757ea0.js",
+    "runtime-main.js.map": "/whatsappClone/static/js/runtime-main.5f757ea0.js.map",
+    "static/css/2.11829350.chunk.css": "/whatsappClone/static/css/2.11829350.chunk.css",
+    "static/js/2.f07bbd00.chunk.js": "/whatsappClone/static/js/2.f07bbd00.chunk.js",
+    "static/js/2.f07bbd00.chunk.js.map": "/whatsappClone/static/js/2.f07bbd00.chunk.js.map",
+    "index.html": "/whatsappClone/index.html",
+    "precache-manifest.981a7d76ef9e712d1f725401e10aafd1.js": "/whatsappClone/precache-manifest.981a7d76ef9e712d1f725401e10aafd1.js",
+    "service-worker.js": "/whatsappClone/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/whatsappClone/static/css/2.11829350.chunk.css.map",
+    "static/js/2.f07bbd00.chunk.js.LICENSE.txt": "/whatsappClone/static/js/2.f07bbd00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ba1a8c7.js",
+    "static/js/runtime-main.5f757ea0.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.4c5e4d85.chunk.js",
+    "static/js/2.f07bbd00.chunk.js",
     "static/js/main.c6a7e2d8.chunk.js"
   ]
 }
