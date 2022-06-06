@@ -12,7 +12,7 @@ export function SocketProvider({ id, children }) {
 
   useEffect(() => {
     const newSocket = io(
-      'http://localhost:5000',
+      'https://agile-dawn-53871.herokuapp.com/',
       { query: { id } }
     )
     setSocket(newSocket)
