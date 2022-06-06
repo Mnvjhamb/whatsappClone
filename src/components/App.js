@@ -11,6 +11,7 @@ function App() {
 
   const dashboard = (
     <SocketProvider id={id}>
+      "HELLO"
       <ContactsProvider>
         <ConversationsProvider id={id}>
           <Dashboard id={id} />
